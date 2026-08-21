@@ -20,7 +20,7 @@
 ### Currently Learning
 - Embedded C Programming
 
-### Current Working on
+### Currently Working on
 - [layered-embedded-c](github.com/buns321/layered-embedded-c) 
 
 ### Also OK With
