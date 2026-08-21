@@ -23,7 +23,7 @@
 ### Currently Working on
 - [layered-embedded-c](github.com/buns321/layered-embedded-c) 
 
-### Also OK With
+### Also OK with
 - FL Studio
 - AviUtl
 
