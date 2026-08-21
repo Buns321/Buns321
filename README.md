@@ -1,16 +1,28 @@
-## Hi there 👋
+### Supported Languages
+- Chinese (Simplified)
+- Chinese (Traditional)
+- English
 
-<!--
-**Buns321/Buns321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+- Pursuing a Bachelor's degree in Electrical Engineering and Automation at CSUST
 
-Here are some ideas to get you started:
+### Primary Programming Languages
+- GNU C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Environments
+- GCC
+- Git
+- Ubuntu
+- Keil µVision5
+- STM32CubeMX
+- CLion
+
+### Currently Learning
+- Embedded C Programming
+
+### Current Working on
+- [layered-embedded-c](github.com/buns321/layered-embedded-c) 
+
+### Also OK With
+- FL Studio
+- AviUtl
