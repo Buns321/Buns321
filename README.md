@@ -19,6 +19,7 @@
 
 ### Currently Learning
 - Embedded C Programming
+- Control Theory
 
 ### Currently Working on
 - [layered-embedded-c](github.com/buns321/layered-embedded-c) 
