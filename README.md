@@ -10,12 +10,11 @@
 - GNU C/C++
 
 ### Tools & Environments
-- GCC
-- Git
-- Ubuntu
-- Keil µVision5
+- Debian Linux
 - STM32CubeMX
-- CLion
+- JetBrains CLion
+- Visual Studio Code
+- Google Antigravity
 
 ### Currently Learning
 - Embedded C Programming
